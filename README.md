@@ -8,3 +8,5 @@ ici le lien vers ce tutoreil avec https://www.youtube.com/watch?v=oCINeytlyRA
 Merci à Simon Dieny.
 
 Ne soyer pas embarrasé avec les commentaires du code.
+
+Vous verez le resultat de ce site ici: https://react-pokemons-app-301f7.web.app
