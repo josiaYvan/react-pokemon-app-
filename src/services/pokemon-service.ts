@@ -68,6 +68,9 @@
 //   }
 // }
 // //static means que les methodes ne sont rattachées qu'à elle meme.
+
+
+//les servises en mode de deployement
 import Pokemon from "../models/pokemon";
 import POKEMONS from "../models/mock-pokemon";
   
